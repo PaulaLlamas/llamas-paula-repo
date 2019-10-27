@@ -1,15 +1,16 @@
 ﻿# Don Quijote
 
-En un lugar de los Repos,
 
-de cuyo commit no quiero acordarme,
+En un lugar de los **Repos**,
 
-no ha mucho log que vivía
+de cuyo **commit** no quiero acordarme,
 
-un hidalgo de los de head en master,
+no ha mucho **log** que vivía
 
-push antiguo,
+un hidalgo de los de **head** en **master**,
 
-git flaco y remote corredor.
+**push** antiguo,
 
-git commit -m “Don Quijote de la Mancha”
+**git** flaco y **remote** corredor.
+
+`git commit -m “Don Quijote de la Mancha”`
