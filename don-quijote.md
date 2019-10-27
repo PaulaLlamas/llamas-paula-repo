@@ -1,17 +1,17 @@
-﻿# Don Quijote
+﻿# Don Quijote de la mancha
 
 
-<<<<<<< HEAD
-En un lugar de los **Repos**,
 
-de cuyo **commit** no quiero acordarme,
+<p>En un lugar de los <em>Repos</em>,</p>
 
-no ha mucho **log** que vivía
+<p>de cuyo <em>commit</em> no quiero acordarme,</p>
 
-un hidalgo de los de **head** en **master**,
+<p>no ha mucho <em>log</em> que vivía</p>
 
-**push** antiguo,
+<p>un hidalgo de los de <em>head</em> en <em>master</em>,</p>
 
-**git** flaco y **remote** corredor.
+<p><em>push</em> antiguo,</p>
 
-`git commit -m “Don Quijote de la Mancha”`
+<p><em>pull</em> flaco y <em>remote</em> corredor.</p>
+
+<p><code>git commit -m &quot;Don Quijote de la Mancha&quot;</code> </p>
